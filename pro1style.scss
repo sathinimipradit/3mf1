@@ -1,0 +1,58 @@
+/* Scss Document */
+body{
+	background-color:#CFCFCF;
+	text-align: center;
+}
+
+p{
+	font-family: 'Exo', sans-serif;
+}
+
+h1{
+	font-family: 'Exo', sans-serif;
+	font-weight: 200;
+}
+
+h2{
+	font-family: 'Exo', sans-serif;
+}
+
+label{
+	font-family: 'Exo', sans-serif;
+	font-weight: 300;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #F0E68C;
+    padding: 10px;
+}
+
+input[type=text] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+}
+
+input[type=password] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	font-family: 'Exo', sans-serif;
+	font-weight: 500;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #F0E68C;
+    border: none;
+    color: black;
+    padding: 12px 20px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-family: 'Exo', sans-serif;
+	font-weight: 700;
+}
+
